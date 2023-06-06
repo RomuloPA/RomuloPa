@@ -1,4 +1,4 @@
-### Olá! Eu sou Rômulo Pamplona, estudante de Tecnologia em Análise e Desenvolvimento de Sistemas em transição de carreira.
+### Olá! Eu sou Rômulo Pamplona, desenvolvedor com foco em front-end utilizando as tecnologias | HTML | CSS | JavaScript.
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloPA&show_icons=true&theme=highcontrast)

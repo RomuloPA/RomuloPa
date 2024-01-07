@@ -1,4 +1,4 @@
-### Olá! Eu sou Rômulo Pamplona, desenvolvedor com foco em front-end utilizando as tecnologias | HTML | CSS | JavaScript.
+### Olá! Eu sou Rômulo Pamplona, desenvolvedor com foco em back-end utilizando a linguagem de programação PHP.
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RomuloPA&show_icons=true&theme=highcontrast)
